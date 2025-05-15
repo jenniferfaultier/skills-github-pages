@@ -1,1 +1,4 @@
 theme: minima
+caches:
+  images:
+    dir: :cacheDir/images
